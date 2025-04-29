@@ -144,3 +144,13 @@ LRD-REL-12.103.0.5
 	summit-lwbplus-firmware
 	summit-nx61x-firmware
 	summit-som8mp-radio-firmware
+
+LRD-REL-12.103.8.3
+	summit-60-radio-firmware-pcie-uart
+	summit-60-radio-firmware-pcie-usb
+	summit-60-radio-firmware-sdio-sdio
+	summit-60-radio-firmware-sdio-uart
+	summit-60-radio-firmware-usb-uart
+	summit-60-radio-firmware-usb-usb
+	summit-nx61x-firmware
+	summit-som8mp-radio-firmware
