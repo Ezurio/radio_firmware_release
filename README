@@ -154,3 +154,28 @@ LRD-REL-12.103.8.3
 	summit-60-radio-firmware-usb-usb
 	summit-nx61x-firmware
 	summit-som8mp-radio-firmware
+
+LRD-REL-13.24.0.20
+	LICENSE.qca_firmware
+	NOTICE.qca_firmware
+	summit-60-radio-firmware-pcie-usb
+	summit-60-radio-firmware-sdio-sdio
+	summit-60-radio-firmware-sdio-uart
+	summit-60-radio-firmware-usb-uart
+	summit-60-radio-firmware-usb-usb
+	summit-bdsdmac-firmware
+	summit-if513-sdio-div-firmware
+	summit-if513-sdio-sa-firmware
+	summit-if573-pcie-firmware
+	summit-if573-sdio-firmware
+	summit-lwb5plus-sdio-div-firmware
+	summit-lwb5plus-sdio-sa-firmware
+	summit-lwb5plus-sdio-sa-m2-firmware
+	summit-lwb5plus-usb-div-firmware
+	summit-lwb5plus-usb-sa-firmware
+	summit-lwb5plus-usb-sa-m2-firmware
+	summit-lwb-firmware
+	summit-lwbplus-firmware
+	summit-nx61x-1218-firmware
+	summit-nx61x-firmware
+	summit-som8mp-radio-firmware
